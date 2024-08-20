@@ -18,9 +18,7 @@ Created on Thu Sep 22 10:14:13 2022
 import streamlit as st
 import pandas as pd
 import glob
-import matplotlib.pyplot as plt
 import numpy as np
-from matplotlib.ticker import FormatStrFormatter
 import io
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
